@@ -12,3 +12,12 @@ Este projeto é um sistema console em .NET 8 para gerenciar usuários, utilizand
 - **Microsoft.Extensions.Configuration(9.0.0)**
 - **Microsoft.Extensions.Configuration.FileExtensions(9.0.0)**
 - **Microsoft.Extensions.Configuration.Json(9.0.0)**
+
+
+  Integrantes:
+
+  Gabriel Gomes Catanzaro / RM93445
+  Cassio Eid Kobayashi Yonetsuka / RM99678
+  Filipe Prado Menezes / RM98765
+  Lucas Gomes Alcantara / RM98766
+  Henrique Canali Cuzato / RM88166
